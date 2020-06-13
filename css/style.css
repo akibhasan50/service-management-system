@@ -1,0 +1,49 @@
+* {
+  box-sizing: border-box;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu", sans-serif;
+  font-size: 2em;
+  font-weight: 600;
+}
+
+.navbar-text {
+  font-weight: 600;
+  color: blanchedalmond;
+}
+
+.navbar-dark .navbar-nav .nav-item a {
+  color: #fff;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.navbar-dark .navbar-nav .nav-item a:hover {
+  color: rgb(240, 154, 154);
+}
+
+/*bg image*/
+.back-image {
+  background-size: cover;
+  min-height: 90vh;
+  background-repeat: no-repeat;
+  border-radius: 0;
+  margin-top: 30px;
+}
+
+.subtitle {
+  font-size: 20px;
+}
+
+.margin-heading {
+  margin-top: 40px;
+}
+
+.row .fi-color {
+  color: rgb(192, 35, 35);
+}
+
+.row .fi-color:hover {
+  color: rgb(228, 93, 93);
+}
